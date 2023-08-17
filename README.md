@@ -13,7 +13,7 @@ Before you begin, ensure that you have the following software installed on your 
 1. **Clone the Repository:**
    Clone this repository to your local machine using the following command:
 
-   ```git clone [<repository-url>](https://github.com/rohitjain908/Bakery-Shop-react.git)```
+   ```git clone https://github.com/rohitjain908/Bakery-Shop-react.git```
 
 3. **Navigate to Project Directory:**
 Change your working directory to the project folder:
